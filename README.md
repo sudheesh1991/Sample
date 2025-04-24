@@ -1,0 +1,2 @@
+# Sample
+Vehicle parking spot 
